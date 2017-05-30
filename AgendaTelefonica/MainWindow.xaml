@@ -1,0 +1,21 @@
+﻿<Window x:Class="AgendaTelefonica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AgendaTelefonica"
+        mc:Ignorable="d"
+        Title="LPFX Agenda Telefônica" Height="350" Width="525">
+    <Grid>
+        <TreeView x:Name="treeViewAgenda" HorizontalAlignment="Left" Height="299" Margin="0,10,0,0" VerticalAlignment="Top" Width="110" SelectedItemChanged="treeViewAgenda_SelectedItemChanged">
+        </TreeView>
+
+        <GroupBox x:Name="adicionar_grupo" Header="Adicionar Grupo" HorizontalAlignment="Left" Margin="110,11,0,0" VerticalAlignment="Top" Height="77" Width="392">
+            <Grid Margin="10,10,-12,0" Height="71" VerticalAlignment="Top">
+                <Label Content="Nome:" Margin="10,10,316,34"/>
+                <TextBox Height="20" x:Name="nome_grupo" Margin="66,16,203,34"/>
+                <Button Height="30" x:Name="salvar_grupo" Click="salvar_grupo_Click" Margin="198,10,113,30">Salvar</Button>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

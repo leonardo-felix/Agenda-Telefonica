@@ -1,0 +1,14 @@
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csprojResolveAssemblyReference.cache
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\MainWindow.g.cs
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\App.g.cs
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica_MarkupCompile.cache
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica_MarkupCompile.lref
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\MainWindow.baml
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.g.resources
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.Properties.Resources.resources
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.GenerateResource.Cache
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+D:\Users\tr19426ps\Projetos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
